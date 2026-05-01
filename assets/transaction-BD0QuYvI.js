@@ -1,1 +1,0 @@
-import{_ as n,b as o,e as a,h as s,i as r,k as c}from"./index-DqoaaPIL.js";const _={};function p(f,t){const e=s("t-page");return r(),o(e,null,{default:a(()=>[...t[0]||(t[0]=[c(" transaction ",-1)])]),_:1})}const l=n(_,[["render",p]]);export{l as default};

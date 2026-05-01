@@ -1,1 +1,0 @@
-import{_ as o,b as a,e as n,h as r,i as s,k as c}from"./index-DqoaaPIL.js";const _={};function p(f,e){const t=r("t-page");return s(),a(t,null,{default:n(()=>[...e[0]||(e[0]=[c(" market ",-1)])]),_:1})}const m=o(_,[["render",p]]);export{m as default};
