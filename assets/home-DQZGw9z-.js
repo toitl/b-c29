@@ -1,0 +1,1 @@
+import{_ as o,b as n,e as s,h as a,i as r,k as c}from"./index-DqoaaPIL.js";const _={};function p(f,e){const t=a("t-page");return r(),n(t,null,{default:s(()=>[...e[0]||(e[0]=[c(" 123 ",-1)])]),_:1})}const m=o(_,[["render",p]]);export{m as default};
