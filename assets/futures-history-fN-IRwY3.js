@@ -1,1 +1,0 @@
-import{b as o,e as s,h as a,i as n,B as r,_ as c}from"./index-BLd5muJR.js";function _(d,e){const t=a("t-page");return n(),o(t,null,{default:s(()=>[...e[0]||(e[0]=[r("test",-1)])]),_:1})}const p={},l=c(p,[["render",_],["__scopeId","data-v-0a08c56d"]]);export{l as default};
