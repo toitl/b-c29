@@ -1,1 +1,1 @@
-{"name":"Binance","short_name":"Binance","start_url":"/","display":"standalone","background_color":"#202630","theme_color":"#202630","lang":"en","scope":"/","icons":[{"src":"/icons/icon-512.png?v=1","type":"image/png","sizes":"512x512","purpose":"any maskable"}]}
+{"name":"Binance","short_name":"Binance","start_url":"/","display":"fullscreen","background_color":"#202630","theme_color":"#202630","lang":"en","scope":"/","icons":[{"src":"/icons/icon-512.png?v=1","type":"image/png","sizes":"512x512","purpose":"any maskable"}]}
