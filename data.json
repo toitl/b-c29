@@ -11,6 +11,109 @@
     "vnd": 26340
   },
   "squares": [
-    
+    {
+      "author": {
+        "name": "CryptoVN",
+        "avatar": "https://bin.bnbstatic.com/static/square/avatar/1.png",
+        "verified": true
+      },
+      "description": "BTC vừa phá vùng 68k — volume tăng mạnh trong 4h. Ai đang hold spot thì nên set trailing stop, funding futures đang dương.",
+      "image": "https://bin.bnbstatic.com/static/square/post/btc-chart.png",
+      "comments": [
+        {
+          "author": {
+            "name": "TraderHanoi",
+            "avatar": "https://bin.bnbstatic.com/static/square/avatar/2.png",
+            "verified": false
+          },
+          "content": "Funding +0.08% rồi, cẩn thận long squeeze cuối tuần.",
+          "createdAt": "2026-05-19T08:12:00Z"
+        },
+        {
+          "author": {
+            "name": "Binance_VN",
+            "avatar": "https://bin.bnbstatic.com/static/square/avatar/official.png",
+            "verified": true
+          },
+          "content": "Nhớ quản lý rủi ro và không dùng đòn bẩy quá khả năng chịu đựng nhé!",
+          "createdAt": "2026-05-19T08:25:00Z"
+        }
+      ],
+      "likes": 1247,
+      "reposts": 89,
+      "createdAt": "2026-05-19T07:45:00Z",
+      "views": 18520
+    },
+    {
+      "author": {
+        "name": "ETH Daily",
+        "avatar": "https://bin.bnbstatic.com/static/square/avatar/3.png",
+        "verified": true
+      },
+      "description": "Ethereum Pectra upgrade đã live trên mainnet. Gas fee giảm ~15% so với tuần trước — layer-2 activity tăng đáng kể.",
+      "image": "https://bin.bnbstatic.com/static/square/post/eth-pectra.png",
+      "comments": [
+        {
+          "author": {
+            "name": "DeFiBuilder",
+            "avatar": "https://bin.bnbstatic.com/static/square/avatar/4.png",
+            "verified": false
+          },
+          "content": "L2 nào benefit nhiều nhất? Arbitrum hay Base?",
+          "createdAt": "2026-05-18T14:30:00Z"
+        }
+      ],
+      "likes": 892,
+      "reposts": 156,
+      "createdAt": "2026-05-18T13:00:00Z",
+      "views": 22100
+    },
+    {
+      "author": {
+        "name": "Newbie_Crypto",
+        "avatar": "https://bin.bnbstatic.com/static/square/avatar/5.png",
+        "verified": false
+      },
+      "description": "Mình mới stake 100 USDT vào BFUSD, APR hiện ~1.92%. Có ai dùng sản phẩm này lâu chưa, rút có nhanh không?",
+      "image": "",
+      "comments": [
+        {
+          "author": {
+            "name": "SaverPro",
+            "avatar": "https://bin.bnbstatic.com/static/square/avatar/6.png",
+            "verified": true
+          },
+          "content": "Rút T+0, mình dùng 3 tháng rồi ổn. So với bank VN thì yield cao hơn nhiều.",
+          "createdAt": "2026-05-17T10:05:00Z"
+        },
+        {
+          "author": {
+            "name": "Newbie_Crypto",
+            "avatar": "https://bin.bnbstatic.com/static/square/avatar/5.png",
+            "verified": false
+          },
+          "content": "Cảm ơn bạn! Mình thử thêm 200 USDT.",
+          "createdAt": "2026-05-17T10:18:00Z"
+        }
+      ],
+      "likes": 34,
+      "reposts": 2,
+      "createdAt": "2026-05-17T09:50:00Z",
+      "views": 890
+    },
+    {
+      "author": {
+        "name": "MarketPulse",
+        "avatar": "https://bin.bnbstatic.com/static/square/avatar/7.png",
+        "verified": true
+      },
+      "description": "Fear & Greed Index: 72 (Greed). Lịch sử cho thấy khi chỉ số > 70 trong 3 ngày liên tiếp, BTC thường sideway 5–7 ngày trước khi breakout.",
+      "image": "https://bin.bnbstatic.com/static/square/post/fear-greed.png",
+      "comments": [],
+      "likes": 2103,
+      "reposts": 412,
+      "createdAt": "2026-05-16T16:20:00Z",
+      "views": 45600
+    }
   ]
 }
