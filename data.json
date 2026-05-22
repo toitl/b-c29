@@ -15,7 +15,8 @@
       "author": {
         "name": "CryptoVN",
         "avatar": "https://bin.bnbstatic.com/static/square/avatar/1.png",
-        "verified": true
+        "verified": true,
+        "followers": 1000
       },
       "description": "BTC vừa phá vùng 68k — volume tăng mạnh trong 4h. Ai đang hold spot thì nên set trailing stop, funding futures đang dương.",
       "image": "https://bin.bnbstatic.com/static/square/post/btc-chart.png",
@@ -48,7 +49,8 @@
       "author": {
         "name": "ETH Daily",
         "avatar": "https://bin.bnbstatic.com/static/square/avatar/3.png",
-        "verified": true
+        "verified": false,
+        "followers": 1000
       },
       "description": "Ethereum Pectra upgrade đã live trên mainnet. Gas fee giảm ~15% so với tuần trước — layer-2 activity tăng đáng kể.",
       "image": "https://bin.bnbstatic.com/static/square/post/eth-pectra.png",
@@ -72,7 +74,8 @@
       "author": {
         "name": "Newbie_Crypto",
         "avatar": "https://bin.bnbstatic.com/static/square/avatar/5.png",
-        "verified": false
+        "verified": false,
+        "followers": 8
       },
       "description": "Mình mới stake 100 USDT vào BFUSD, APR hiện ~1.92%. Có ai dùng sản phẩm này lâu chưa, rút có nhanh không?",
       "image": "",
@@ -105,7 +108,8 @@
       "author": {
         "name": "MarketPulse",
         "avatar": "https://bin.bnbstatic.com/static/square/avatar/7.png",
-        "verified": true
+        "verified": false,
+        "followers": 1000
       },
       "description": "Fear & Greed Index: 72 (Greed). Lịch sử cho thấy khi chỉ số > 70 trong 3 ngày liên tiếp, BTC thường sideway 5–7 ngày trước khi breakout.",
       "image": "https://bin.bnbstatic.com/static/square/post/fear-greed.png",
