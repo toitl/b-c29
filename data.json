@@ -19,7 +19,7 @@
         "followers": 1000
       },
       "description": "BTC vừa phá vùng 68k — volume tăng mạnh trong 4h. Ai đang hold spot thì nên set trailing stop, funding futures đang dương.",
-      "image": "https://bin.bnbstatic.com/static/square/post/btc-chart.png",
+      "image": "https://t3.ftcdn.net/jpg/04/42/31/08/360_F_442310888_VsxNBfMaiA6Z9jCTT1PpCw8ytecOmYSg.jpg",
       "comments": [
         {
           "author": {
@@ -43,7 +43,16 @@
       "likes": 1247,
       "reposts": 89,
       "createdAt": "2026-05-19T07:45:00Z",
-      "views": 18520
+      "views": 18520,
+      "position": {
+        "amount": 47.60221664348426,
+        "entryPrice": 75590,
+        "side": "long",
+        "symbol": "BTCUSDT",
+        "provisional": 1000,
+        "unit": "%"
+      },
+      "symbols": ["BTCUSDT"]
     },
     {
       "author": {
