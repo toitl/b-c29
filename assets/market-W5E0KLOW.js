@@ -1,0 +1,1 @@
+import{_ as o,b as t,k as c,m as n}from"./index-1ndTJBcI.js";const r={};function a(s,_){const e=c("t-page");return n(),t(e)}const m=o(r,[["render",a]]);export{m as default};
